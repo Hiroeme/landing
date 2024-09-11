@@ -18,21 +18,42 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: "my pace & my space"
+email: whuang2057@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/landing/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hiroeme.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: meHiroeme
+github_username:  Hiroeme
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 plugins:
   - jekyll-feed
+  - jemoji
+
+# Site's Author
+author:
+  name: "Willie Huang"
+  avatar: "/assets/images/avatar-512.png"
+  location: "California, USA"
+  bio: "Recent Graduate Looking for New Experiences"
+  email: "whuang2057@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Hiroeme"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/MeHiroe"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +74,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+    values:
+      header:
+        overlay_color: "#000"
+        overlay_filter: '.25'
+        overlay_image: /assets/images/header.jpg
+
+        # overlay_filter: rgba(139, 228, 245, 1)
