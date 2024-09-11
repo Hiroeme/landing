@@ -16,7 +16,7 @@ To whoever is reading, this is my first time writing in a very long, very looooo
 ## Intro
 ---
 
-Hello! I'm Willie, and I'm 22 years old. A little about me: I lived with my grandparents in China during my early childhood—I'm known as a lover of egg tarts. Then, I moved to California with my mom and sister around the age of seven. Here, I found my undying love for burritos, and even more my love for eating good food with people. I also graduated this year with a bachelor's degree in Computer Science (CS), and am currently looking for job opportunities *(I imagine some people might give me sympathetic looks after hearing that last snippet haha)*.
+Hello! I'm Willie, and I'm 22 years old. A little about me: I lived with my grandparents in China during my early childhood—I was known as a lover of egg tarts. Then, I moved to California with my mom and sister around the age of seven. Here, I found my undying love for burritos, and even more my love for eating good food with people. I also graduated this year with a bachelor's degree in Computer Science (CS), and am currently looking for job opportunities *(I imagine some people might give me sympathetic looks after hearing that last snippet haha)*.
 
 Now with all this time, I thought I’d start this blog trying to develop a habit of introspection and improve my writing skills.
 
