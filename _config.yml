@@ -28,6 +28,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hiroeme.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meHiroeme
 github_username:  Hiroeme
+repository: "Hiroeme/landing"
+
+# Site Settings
+comments:
+  provider: "utterances"
+  utterances: 
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "comment"
+
 
 # Build settings
 # theme: minima
@@ -88,6 +98,7 @@ defaults:
       comments: true
       share: true
       related: true
+      tags: "en-us"
   - scope:
       path: ""
     values:
