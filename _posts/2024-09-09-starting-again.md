@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "A Little More Thought This Time"
 date:   2024-09-09 14:40:39 -0700
 categories: "Personal"
@@ -9,6 +8,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/pages/starting-again/header.jpg
   caption: "Photo credit: Me!"
+share: false
+related: false
 ---
 
 To whoever is reading, this is my first time writing in a very long, very loooooong time, and I’ve never expressed myself in this way before. If I made any mistakes, feel free to critique me. If this post resonates with you in any way, I'll be happy. Thank you.
