@@ -15,14 +15,12 @@ related: false
 To whoever is reading, this is my first time writing in a very long, very loooooong time, and I’ve never expressed myself in this way before. If I made any mistakes, feel free to critique me. If this post resonates with you in any way, I'll be happy. Thank you.
 
 ## Intro
----
 
-Hello! I'm Willie, and I'm 22 years old. A little about me: I lived with my grandparents in China during my early childhood—I was known as a lover of egg tarts. Then, I moved to California with my mom and sister around the age of seven. Here, I found my undying love for burritos, and even more my love for eating good food with people. I also graduated this year with a bachelor's degree in Computer Science (CS), and am currently looking for job opportunities *(I imagine some people might give me sympathetic looks after hearing that last snippet haha)*.
+Hello! I'm Willie, and I'm 22 years old. A little about me: I lived with my grandparents in China during my early childhood. Then, I moved to California with my mom and sister around the age of seven. Here, I found my undying love for burritos, and even more my love for eating good food with people. I also graduated this year with a bachelor's degree in Computer Science (CS), and am currently looking for job opportunities *(I imagine some people might give me sympathetic looks after hearing that last snippet haha)*.
 
 Now with all this time, I thought I’d start this blog trying to develop a habit of introspection and improve my writing skills.
 
 ## Highschool
----
 
 Looking back on my life, it makes me think, "Man, I haven’t given my life much thought or care that it probably deserved."
 
@@ -35,8 +33,6 @@ In my last-minute, caffeine-fueled process of applying to college, I picked scho
 And then, four years flew by.
 
 ## College
----
-
 
 I like to imagine a wave swept me off my feet, carried me along its currents for a few years, and then washed me back ashore, right where as I began.
 
@@ -53,7 +49,6 @@ Yet, I can't help but think I could have done more. I let life pass me by. I sho
 My heart feels a bit heavy whenever these thoughts resurface. And to be honest, I sometimes wish I could travel back in time to do things differently, but what's done is done. Past me could done things differently, but he also did the best he could with what he knew. I could sit here feeling sad and regretful, but I'd rather embrace those experiences and move forward. 
 
 ## Now what?
----
 
 Things might get worse, or they might get better—who really knows? The only thing I can control is how I approach it: with kindness and hope. I’ll be kind to myself for the mistakes I’ve made and hopeful that, through my action, things can improve. I’ll take a more active role in shaping my own life, staying curious about all the opportunities it presents. I want to engage with things that genuinely matter to me.
 
