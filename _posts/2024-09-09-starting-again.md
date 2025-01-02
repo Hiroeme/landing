@@ -46,7 +46,7 @@ Still, I’ll give myself some credit. In the latter half of college, I started 
 
 Yet, I can't help but think I could have done more. I let life pass me by. I should've spent more time getting to know my housemates and seeing what they were up to. I assumed I’d always have the option, but by the time they were leaving, I realized time had run out. I should’ve accepted the invitations to join campus clubs during club rush and experienced the diverse aspects of college life. I should’ve taken advantage of the university’s career resources and pursued internships to better understand the field I was entering.
 
-My heart feels a bit heavy whenever these thoughts resurface. And to be honest, I sometimes wish I could travel back in time to do things differently, but what's done is done. Past me could done things differently, but he also did the best he could with what he knew. I could sit here feeling sad and regretful, but I'd rather embrace those experiences and move forward. 
+My heart feels a bit heavy whenever these thoughts resurface. And to be honest, I sometimes wish I could travel back in time to do things differently, but what's done is done. Past me could done things differently, but he also did the best he could with what he knew. I could sit here feeling sad and regretful, but I'd rather embrace those experiences and move forward.
 
 ## Now what?
 
@@ -55,8 +55,3 @@ Things might get worse, or they might get better—who really knows? The only th
 There’s also a long backlog of things I’ve put off over the years—like learning the guitar, drawing, and writing. I know there is a bunch of experiences to unpack in even just one of those things, and I hope to share them here as I explore each one.
 
 As I step into the next chapter of my life, I’ll put a little more thought this time.
-
-
-
-
-
