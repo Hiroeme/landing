@@ -37,8 +37,8 @@ I keep thinking about what I could do to fix this, but I think you have already 
 
 They say time heals all wounds—that it gets better, I will eventually forget, the indifference sets in, and I will move on.
 
-I know this is true, but that scares me so much because I will lose the part of me that loved you.
+I know this is true, but that scares me so much, because I will lose the part of me that loved you.
 
-I hope that we can continue to be casual friends with none of that awkwardness.
+I hope that we can continue to be casual friends with none of the awkwardness.
 
-I truly wish you the best in everything you will do in your life. Actually, I know you will be the best! Everything will go your way I bet.
+I truly wish you the best in everything you will do in your life. Actually, I know you will be the best! Everything will go your way I bet!
