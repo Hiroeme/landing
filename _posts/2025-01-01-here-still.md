@@ -1,5 +1,5 @@
 ---
-title:  "My World Got a Bit Darker"
+title:  "My World Got a Bit Darker Without You"
 date:   2025-01-01 14:40:39 -0700
 categories: "Personal"
 excerpt: 
@@ -42,3 +42,5 @@ I know this is true, but that scares me so much, because I will lose the part of
 I hope that we can continue to be casual friends with none of the awkwardness.
 
 I truly wish you the best in everything you will do in your life. Actually, I know you will be the best! Everything will go your way I bet!
+
+Thank you for the wonderful, amazing experience.
