@@ -11,15 +11,15 @@ Hello! Nice to meet you. :bow:
 
 My name is Willie.
 
-I love eating [egg tarts](https://en.wikipedia.org/wiki/Egg_tart), specifically the Hong Kong variety. 
-The flaky bottom crust paired with the smooth egg filling really gets me going. 
-Then there are burritos which come in all sorts of sizes and fillings. 
+I love eating [egg tarts](https://en.wikipedia.org/wiki/Egg_tart), specifically the Hong Kong variety.
+The flaky bottom crust paired with the smooth egg filling really gets me going.
+Then there are burritos which come in all sorts of sizes and fillings.
 The combination of meat, carbs, and salsa is the closest man can get to replicating the Holy Trinity.
 
 I really, really love food. It's just one of those things that you can change to spice up your life. No pun intended. :smirk:
 
 Also, I'm an :sparkle: *unemployed* :sparkle: software engineer that graduated from the University of California, San Diego in 2024.
-I'm working on that though! I'm a work in progress! :smile:
+I'm working on that though! :smile:
 
 In my free time, I enjoy going on long walks :walking:, learning fingerstyle guitar :guitar:, and watching vlogging videos :tv:.
 

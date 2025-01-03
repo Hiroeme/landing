@@ -27,7 +27,7 @@ I can't stop my tears.
 
 I have all the gifts and cards you ever gave to me in front of me. I reread the cards as if your love is still there.
 
-I'm not sure why I do this when it makes me so sad. It's so illogical. But I want to pretend you're still close to me.
+I'm not sure why I do this when it makes me so sad. It's so illogical. But I guess I want to pretend you're still close to me.
 
 So many happy memories, and it hurts even more that I won't be able to make more memories with you again the same way.
 
