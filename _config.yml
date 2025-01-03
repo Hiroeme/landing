@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "my pace & my space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Willie Huang"
+name                     : "Willie"
 description              : "An amazing website."
 url                      : "http://hiroeme.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/landing" # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Willie Huang"
+  name             : "Willie"
   avatar           : "/assets/images/avatar-512.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Recent Graduate Looking for New Experiences"
   location         : "California, USA"

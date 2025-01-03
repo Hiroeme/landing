@@ -9,7 +9,7 @@ author_profile: true
 
 Hello! Nice to meet you. :bow:
 
-My name is Willie Huang.
+My name is Willie.
 
 I love eating [egg tarts](https://en.wikipedia.org/wiki/Egg_tart), specifically the Hong Kong variety. 
 The flaky bottom crust paired with the smooth egg filling really gets me going. 
