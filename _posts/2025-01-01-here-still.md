@@ -39,6 +39,8 @@ They say time heals all wounds—that it gets better, I will eventually forget, 
 
 I know this is true, but that scares me so much, because I will lose the part of me that loved you.
 
+---
+
 I hope that we can continue to be casual friends with none of the awkwardness.
 
 I truly wish you the best in everything you will do in your life. Actually, I know you will be the best! Everything will go your way I bet!

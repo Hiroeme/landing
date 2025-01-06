@@ -18,8 +18,8 @@ The combination of meat, carbs, and salsa is the closest man can get to replicat
 
 I really, really love food. It's just one of those things that you can change to spice up your life. No pun intended. :smirk:
 
-Also, I'm an :sparkle: *unemployed* :sparkle: software engineer that graduated from the University of California, San Diego in 2024.
-I'm working on that though! :smile:
+Also, I graduated from the University of California, San Diego in 2024.
+Still working on breaking into the tech industy, but I'm mainly trying to find what I want to do with my life. :smile:
 
 In my free time, I enjoy going on long walks :walking:, learning fingerstyle guitar :guitar:, and watching vlogging videos :tv:.
 
