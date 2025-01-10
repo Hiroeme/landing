@@ -46,3 +46,7 @@ I hope that we can continue to be casual friends with none of the awkwardness.
 I truly wish you the best in everything you will do in your life. Actually, I know you will be the best! Everything will go your way I bet!
 
 Thank you for the wonderful, amazing experience.
+
+---
+
+It's getting better, but I still miss you. I hope you're not feeling what I'm feeling. I wouldn't want this on anyone.
