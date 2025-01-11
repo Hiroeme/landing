@@ -49,4 +49,6 @@ Thank you for the wonderful, amazing experience.
 
 ---
 
-It's getting better, but I still miss you. I hope you're not feeling what I'm feeling. I wouldn't want this on anyone.
+It's getting better, but I still miss you. I hope you're not feeling what I'm feeling. I wouldn't want you to feel this too.
+
+You're gone, but I'm still here.
