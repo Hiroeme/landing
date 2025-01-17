@@ -1,5 +1,5 @@
 ---
-title:  "My World Got a Bit Darker Without You"
+title:  "As Long as You're Happy"
 date:   2025-01-01 14:40:39 -0700
 categories: "Personal"
 excerpt: 
@@ -51,4 +51,9 @@ Thank you for the wonderful, amazing experience.
 
 It's getting better, but I still miss you. I hope you're not feeling what I'm feeling. I wouldn't want you to feel this too.
 
-You're gone, but I'm still here.
+---
+
+It's probably not that deep and it's all in my head. I might've been daydreaming and imagining for too long.
+I doubt you're reading this, but if you are, sorry for the trouble. I'll try to wake up now.
+
+As long as you're happy, then it's cool beans.
